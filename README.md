@@ -31,8 +31,8 @@ Pastikan file dataset disimpan di direktori project yang sama dengan `eda_online
 
 1. Clone repositori:
    ```bash
-   git clone https://github.com/mutimrd2n/EDA-Diabetes.git
-   cd EDA-Diabetes
+   git clone  https://github.com/mutimrd2n/EDA-OnlineRetail.git
+   cd EDA-OlineRetail
    
 2. Install dependencies :
    ```bash

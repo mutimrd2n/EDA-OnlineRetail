@@ -1,6 +1,6 @@
-#EDA ONLINE RETAIL
-Proyek ini bertujuan untuk melakukan **Exploratory Data Analysis (EDA)** terhadap dataset Online Retail. Analisis ini mencakup:
+##EDA ONLINE RETAIL
 
+Proyek ini bertujuan untuk melakukan **Exploratory Data Analysis (EDA)** terhadap dataset Online Retail. Analisis ini mencakup:
 - Menjelaskan hubungan antara parameter medis (seperti glukosa, BMI, dan usia) dengan risiko diabetes.
 - Mengidentifikasi prediktor dominan untuk membagun model klasifikasi.
 - Menyiapkan data untuk tahap pemodelan dengan teknik machine learning.
